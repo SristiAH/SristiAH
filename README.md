@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SristiAH
-- 👀 I’m interested in Programming.
 - 🌱 I’m currently pursuing Bachelor of Technology (B.Tech) in Computer Science and Engineering.
 
 <!---
